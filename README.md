@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on replit or vscode
 - 📫 How to reach me don't
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a state level robotics competitor
+- ⚡ Fun fact: I am a nation level robotics competitor
 
 <!---
 ATPengineer/ATPengineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
